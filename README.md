@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Analytics💻**
 
-- 💬 Ask me about **Tech 👨🏻‍💻,BTS🤣,Dogs🐕,**
+- 💬 Ask me about **Tech 👨🏻‍💻,BTS🤣**
 
 - 📫 How to reach me **Keep reading and scrolling, you'll know where to find me😉**
 
-- ⚡ Fun fact **I love dogs**
+- ⚡ Fun fact **I love dogs🐕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
