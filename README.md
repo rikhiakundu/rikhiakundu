@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src = "https://www.google.com/search?q=animated+coding+gif&client=ms-android-xiaomi&prmd=ivsn&sxsrf=APwXEdeoeFizHLD0--cMHapgH2HewRLCpw:1682316758913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw-sGm7sH-AhXI8DgGHU19Dy4Q_AUoAXoECAUQAQ&biw=393&bih=720&dpr=2.75#imgrc=qQViMd7j3uvKPM&imgdii=SS1GkdNnlHNJqM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd" >
+<img align = "right" alt = "coding" width ="400" src = "![image](https://user-images.githubusercontent.com/71321230/233915851-0459be64-9eb1-4adb-b90b-10126b84f533.png)
+" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
