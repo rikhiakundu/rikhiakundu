@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src = "https://www.pluralsight.com/" >
+<img align = "right" alt = "coding" width ="400" src = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
