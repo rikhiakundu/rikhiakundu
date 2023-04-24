@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src = "https://www.google.com/search?q=animated+coding+gif&client=ms-android-xiaomi&prmd=ivsn&sxsrf=APwXEdeoeFizHLD0--cMHapgH2HewRLCpw:1682316758913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw-sGm7sH-AhXI8DgGHU19Dy4Q_AUoAXoECAUQAQ&biw=393&bih=720&dpr=2.75#imgrc=qQViMd7j3uvKPM&imgdii=SS1GkdNnlHNJqM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd">
+<img align = "right" alt = "coding" width ="400" src = "https://www.google.com/search?q=animated+coding+gif&client=ms-android-xiaomi&prmd=ivsn&sxsrf=APwXEdeoeFizHLD0--cMHapgH2HewRLCpw:1682316758913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjw-sGm7sH-AhXI8DgGHU19Dy4Q_AUoAXoECAUQAQ&biw=393&bih=720&dpr=2.75#imgrc=qQViMd7j3uvKPM&imgdii=SS1GkdNnlHNJqM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
