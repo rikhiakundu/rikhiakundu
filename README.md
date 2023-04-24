@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src ="![image](https://user-images.githubusercontent.com/71321230/233918388-b9c2e00e-ba24-494b-8bff-8a14c4decf70.png)
-" >
+<img align="right" alt="coding" width="400" src=" ![image](https://user-images.githubusercontent.com/71810962/233918751-6e234912-7082-4b15-a134-325bd8ea60fb.png) ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
@@ -22,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/rikhia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikhia7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rikhia-kundu-b75246237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikhia-kundu-b75246237" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/HAeYrnQ2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HAeYrnQ2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
