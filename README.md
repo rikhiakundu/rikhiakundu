@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
+<h1 align="center">Hi 👋, I'm Rikhia Kundu</h1> <img src="https://raw.githubusercontent.com/rikhiakundu/rikhiakundu/master/assets/gifs/Hi.gif" width="30px">
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python and Open Source</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
-- 🔭 I’m currently working on **new projects**
+- 🔭 I’m currently working on **new projects💡**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics💻**
 
-- 💬 Ask me about **Coding,Dogs,Bts**
+- 💬 Ask me about **Tech 👨🏻‍💻,BTS🤣,Dogs🐕,**
 
-- 📫 How to reach me **rikhiakundu@gmail.com**
+- 📫 How to reach me **Keep reading and scrolling, you'll know where to find me😉**
 
 - ⚡ Fun fact **I love dogs**
 
