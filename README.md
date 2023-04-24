@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python and Open Source</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/71321230/233954236-bb7f64ae-0220-4871-9e7d-672598743a0f.png)
+ ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
