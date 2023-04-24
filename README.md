@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src = "https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" >
+<img align = "right" alt = "coding" width ="400" src = "![image](https://user-images.githubusercontent.com/71321230/233916610-63d9b221-12ef-4280-969a-b7041339e9b5.png)
+" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
