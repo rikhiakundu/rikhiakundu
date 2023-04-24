@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align = "right" alt = "coding" width ="400" src = "![image](https://user-images.githubusercontent.com/71321230/233915851-0459be64-9eb1-4adb-b90b-10126b84f533.png)
-" >
+<img align = "right" alt = "coding" width ="400" src = "![image](https://user-images.githubusercontent.com/71321230/233915851-0459be64-9eb1-4adb-b90b-10126b84f533.png)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
 
@@ -10,7 +9,7 @@
 
 - 🔭 I’m currently working on **new projects**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **DBMS,JAVA,Python**
 
