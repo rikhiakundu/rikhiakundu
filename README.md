@@ -24,4 +24,4 @@
 
 ## Contribution Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikhiakundu&" alt="rikhiakundu" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikhiakundu&hide_border=true" /></p>
