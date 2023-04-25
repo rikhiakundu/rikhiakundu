@@ -24,7 +24,7 @@
 
 <br>
 
---
+---
 
 <p align="center">
   <i>Let's connect and chat! Open to anything.</i>
