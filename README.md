@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
-
 - 🔭 I’m currently working on **new projects💡**
 
 - 🌱 I’m currently learning **Data Analytics💻**
@@ -35,3 +33,6 @@
 <a href="https://linkedin.com/in/rikhia-kundu-b75246237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikhia-kundu-b75246237" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/HAeYrnQ2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HAeYrnQ2" height="30" width="40" /></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
+
