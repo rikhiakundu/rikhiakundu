@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything.</i>
+  <i>Let's connect!</i>
   <p align="center">
 <a href="https://twitter.com/rikhia7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikhia7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rikhia-kundu-b75246237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikhia-kundu-b75246237" height="30" width="40" /></a>
