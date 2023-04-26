@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 <h3 align="center">I'm an engineering student and a to-be developer from India who is passionate about Data Science, Python and Open Source</h3>
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/rikhiakundu/rikhiakundu/blob/main/GIF.gif">
 
 - 🔭 I’m currently working on **new projects💡**
 
