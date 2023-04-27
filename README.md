@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+an+engineering+student+;and+a+to-be+developer+from+India;who+is+passionate+about+Data+Science%2C+;Python+and+Open+Source)](https://git.io/typing-svg)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=051015&width=435&lines=I'm+an+engineering+student+;and+a+to-be+developer+from+India;who+is+passionate+about+Data+Science%2C+;Python+and+Open+Source" alt="Typing SVG" /></a></p>
 
 <img align="right" alt="coding" width="300" src="https://github.com/rikhiakundu/rikhiakundu/blob/main/GIF.gif">
 
