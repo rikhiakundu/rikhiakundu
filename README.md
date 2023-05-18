@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rikhia Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data analyst from India</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://github.com/rikhiakundu/rikhiakundu/blob/main/GIF.gif">
+<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e477mx6wauzf0rayj5wixna6iplzuirq36llc651n3z&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **new projects💡**
 
