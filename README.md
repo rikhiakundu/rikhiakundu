@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst from India</h3>
 
 
-<img align="right" alt="coding" width="300" src="https://i.gifer.com/3otv.gif">
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe_w200.webp">
 
 - 🔭 I’m currently working on **new projects💡**
 
