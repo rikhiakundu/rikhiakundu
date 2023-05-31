@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Tech 👨🏻‍💻,BTS🤣**
 
-- 📫 How to reach me **Keep reading and scrolling, you'll know where to find me😉**
+- 📫 How to reach me *Click Here😉*
 
 - ⚡ Fun fact **I love dogs🐕**
 
