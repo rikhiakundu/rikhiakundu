@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Tech 👨🏻‍💻,BTS🤣**
 
-- 📫 How to reach me *[Click Here](https://C:/Users/Ananya/OneDrive/Desktop/form.html)😉*
+- 📫 How to reach me *[Click Here](https://linktr.ee/rikhiakundu)😉*
 
 - ⚡ Fun fact **I love dogs🐕**
 
