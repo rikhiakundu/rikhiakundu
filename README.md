@@ -28,7 +28,9 @@
 <p align="center">
   <i>Let's connect!</i>
   <p align="center">
-<a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Freepik - Flaticon</a>
+<a href="https://twitter.com/@Rikhia7/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rikhiakundu&label=Profile%20views&color=0e75b6&style=flat" alt="rikhiakundu" /> </p>
