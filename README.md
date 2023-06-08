@@ -31,11 +31,10 @@
 <a href="https://twitter.com/@Rikhia7/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
 </a>
-</p>
-<p align="center"> <a href="https://www.instagram.com/rikhiakundu/">
+    <a href="https://www.instagram.com/rikhiakundu/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Twitter" title="Instagram" width="25" height="25" />
-</a> </p>
-<p> <a href="https://www.linkedin.com/in/rikhia-kundu-b75246237/">
+</a> 
+    <a href="https://www.linkedin.com/in/rikhia-kundu-b75246237/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Twitter" title="linkedin" width="25" height="25" />
 </a>
 </p>
