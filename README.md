@@ -23,8 +23,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikhiakundu&hide_border=true" /></p>
 
-<br>
----
 <p align="center">
   <i>Let's connect!</i>
   <p align="center">
